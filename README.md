@@ -142,6 +142,7 @@ th {
     </style>
 </head>
 <body>
+    <h3> Made by Divine Agbor </h3>
     <div class="january">
     <table class="jan">
         <h1> January </h1>
